@@ -30,6 +30,7 @@ gem 'jquery-rails'
 group :test do
   gem 'capybara', '2.1.0.beta1'
   gem 'selenium-webdriver', '2.0'
+  gem 'factory_girl_rails'
 end
 
 group :development do
